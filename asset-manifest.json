@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd4870c8.chunk.css",
+    "main.js": "/static/js/main.afb56c3a.chunk.js",
+    "main.js.map": "/static/js/main.afb56c3a.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.1e064f24.js",
+    "runtime-main.js.map": "/static/js/runtime-main.1e064f24.js.map",
+    "static/js/2.c89308bd.chunk.js": "/static/js/2.c89308bd.chunk.js",
+    "static/js/2.c89308bd.chunk.js.map": "/static/js/2.c89308bd.chunk.js.map",
+    "static/js/3.cc491431.chunk.js": "/static/js/3.cc491431.chunk.js",
+    "static/js/3.cc491431.chunk.js.map": "/static/js/3.cc491431.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.fd4870c8.chunk.css.map": "/static/css/main.fd4870c8.chunk.css.map",
+    "static/js/2.c89308bd.chunk.js.LICENSE.txt": "/static/js/2.c89308bd.chunk.js.LICENSE.txt",
+    "static/media/cronometro.910ec1f0.png": "/static/media/cronometro.910ec1f0.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.1e064f24.js",
+    "static/js/2.c89308bd.chunk.js",
+    "static/css/main.fd4870c8.chunk.css",
+    "static/js/main.afb56c3a.chunk.js"
+  ]
+}
