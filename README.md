@@ -1,2 +1,2 @@
 ## **Cronômetro-React**
-![Cronômetro](background_cro.jpg)
+![Cronômetro](background_cro.png)
